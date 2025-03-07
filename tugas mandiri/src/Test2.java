@@ -122,6 +122,7 @@ public class Test2 {
                     System.out.print("Pilih : ");
                     pilihan = sc.nextLine();
                     if (pilihan.equalsIgnoreCase("Y")) {
+                        System.out.println("TerimaKasih - By tiara ");
                         System.exit(0);
                     }
                     break;
